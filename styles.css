@@ -5,7 +5,7 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #b08e8e;
 }
 
 .container {
@@ -13,7 +13,7 @@ body{
 }
 
 .clock, .timer {
-    font-size: 48px;
+    font-size: 40px;
     margin: 20px 0;
 }
 
@@ -23,7 +23,7 @@ button {
     font-size: 1em;
     cursor: pointer;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     background: #007BFF;
     color: white;
 }
